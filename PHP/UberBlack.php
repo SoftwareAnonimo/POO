@@ -9,7 +9,5 @@ class UberBlack extends Car {
         $this->typeCarAccepted = $typeCarAccepted;
         $this->seatsMaterial = $seatsMaterial;
     }
-
-
 }
 ?>

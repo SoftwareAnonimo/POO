@@ -9,7 +9,5 @@ class UberPool extends Car {
         $this->brand = $brand;
         $this->model = $model;
     }
-
-
 }
 ?>
